@@ -1,2 +1,2 @@
 # C_learning_record
-A Record
+记录自用
