@@ -4,7 +4,7 @@
 
 typedef struct _node {
     int data;
-    struct _node* next;
+    struct _node *next;
 } Node;
 
 #endif
@@ -22,7 +22,7 @@ typedef struct _node {
 
 int main (int argc, char const *argv[])
 {
-    Node * head = NULL;
+    Node *head = NULL;
     int number;
 
     do{
